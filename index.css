@@ -15,7 +15,7 @@ header img{
     float: left;
     width: 15%;
 }
-.data:hover{
+.data:hover {
    border-radius: 50%;
 }
 header h1{
