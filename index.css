@@ -15,6 +15,9 @@ header img{
     float: left;
     width: 15%;
 }
+.data:hover{
+   border-radius: 50%;
+}
 header h1{
     margin-top: 0;
     padding: 60px;
